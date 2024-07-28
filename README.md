@@ -14,3 +14,6 @@ First, clone this repository to your local machine:
 git clone https://github.com/yourusername/wezterm-config.git
 cd wezterm-config
 
+```sh 
+cp wezterm.lua ~/.config/wezterm/wezterm.lua
+```
